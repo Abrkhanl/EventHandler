@@ -8,7 +8,7 @@ kafka runs on following url:
 localhost:9092
 
 Rest Client runs on :
-Generate request in HTTP Client
+http://localhost:8081
 
 
 **Setup & Run**
